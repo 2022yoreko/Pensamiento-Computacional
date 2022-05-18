@@ -1,0 +1,4 @@
+La programación orientada a objetos se basa en el concepto de crear
+un modelo del problema de destino en sus programas. La programación
+orientada a objetos disminuye los errores y promociona la reutilización
+del código. Python es un lenguaje orientado a objetos.
